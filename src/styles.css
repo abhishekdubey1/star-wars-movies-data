@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fce77d;
+}
+.movie-selector {
+  background-color: #2d2926ff;
+  color: #e94b3cff;
+}
+.movie-data {
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+  background-color: black;
+  color: whitesmoke;
+}
+#movie-name {
+  font-size: 2.5rem;
+  /* text-align: ; */
+  margin: 1rem;
+  padding: 1rem;
+}
+#movie-episode {
+  font-size: 1.5rem;
+  /* text-align: ; */
+  margin: 1rem;
+  padding: 1rem;
+}
+#movie-opening {
+  font-size: 1rem;
+  text-align: left;
+  margin: 1rem;
+  padding: 1rem;
+}
+#movie-makers {
+  font-size: 0.8rem;
+  /* text-align: center; */
+  margin: 1rem;
+  padding: 1rem;
+}
